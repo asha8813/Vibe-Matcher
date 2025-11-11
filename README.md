@@ -29,5 +29,5 @@ Instead of relying on simple keyword matching, this system understands the **mea
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+   git clone https://github.com/asha8813/Vibe-Matcher
+  
